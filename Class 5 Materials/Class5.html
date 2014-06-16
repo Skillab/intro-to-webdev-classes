@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Challenge - Transport Mapper</title>
+    <meta name="description" content="">
+  </head>
+  <body>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjMlMjwNGBNlDKdNSEPJFn08rbNMv0LOY&sensor=false"></script>
+	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="js/class5.js"></script>
+
+	<p>Here is a Google Map, from the Google Map API Server, served via the JavaScript v3 API.</p>  
+	
+    <div id="map_canvas" style="width:600px; height:400px;"></div>
+	
+	<p>Here is a button which says, 'Nearest station'.</p>
+	
+	<button id="actionbutton" onclick="myFunction()">Nearest Station.</button>
+  
+	<p>If you click the button, a function called 'myFunction' will run. You can find this function in the class5.js file</p>
+	<p>In tonight's lab you will modify this function to do a few more things</p>
+	<ul>
+	<li>First: to fetch the LatLon of the middle of the map.</li>
+	<li>Secondly: to add a marker to the middle of the map.</li>
+	<li>Thirdly: to add an infowindow to the marker of the map.</li>
+	<li>And finally: to ask Places API for the nearest Bus Stop / Train Station.</li>
+	</ul>
+	<p>If you can manage that, then you should add a more markers showing these station on the map too!</p>
+	<p>Best of luck!</p>
+  </body>
+</html>

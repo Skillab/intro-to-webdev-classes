@@ -1,0 +1,16 @@
+.red {
+	color:red;
+}
+
+.green {
+	color:green;
+}
+
+.blue {
+	color:blue;
+}
+
+.blue-background {
+	color:white; /* to make the text readable */
+	background-color:blue;
+}

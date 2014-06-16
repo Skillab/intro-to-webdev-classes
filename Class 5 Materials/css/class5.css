@@ -1,0 +1,17 @@
+/* css for Class 5 APIs : Transport Mapper */
+
+#map_canvas {
+	height:100%;
+}
+
+.red {
+	color:red;
+}
+
+.green {
+	color:green;
+}
+
+.blue {
+	color:blue;
+}
