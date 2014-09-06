@@ -45,5 +45,5 @@ Thanks for stopping by.
 
 ## What next?
 
-
+Browse the materials and get downloading!
 

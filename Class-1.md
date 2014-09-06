@@ -1,5 +1,5 @@
 # Session 1
-## Introduction to Programming Ð programming principles.
+## Introduction to Programming: programming principles.
 
 
 ### Introduction:
