@@ -1,4 +1,4 @@
-# Session Ô1Õ
+# Session 1
 ## Introduction to Programming Ð programming principles.
 
 
@@ -13,13 +13,13 @@ What are programs?
 ### Exercises:
 We will split into pairs, one mentor each.
 
-*Instructions 1* Ð can you tell what these out of order lists might be programs for?
+*Instructions 1* can you tell what these out of order lists might be programs for?
 Mentors will assist pairs.
 
-*Instructions 2* Ð how fully do you need to describe processes for a program?
+*Instructions 2* how fully do you need to describe processes for a program?
 Mentors will assist pairs.
 
-*Instructions 3* Ð how might your program go wrong? can we accommodate some errors?
+*Instructions 3* how might your program go wrong? can we accommodate some errors?
 Mentors will assist pairs.
 
 

@@ -1,4 +1,4 @@
-# Session Ô1Õ
+# Session 1
 ## Homework exercises Ð Introduction to JavaScript.
 
 

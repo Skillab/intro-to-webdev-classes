@@ -1,6 +1,6 @@
-# Session ‘4’
+# Session 4
 ## Facilitator’s Guide :
-### Programming for Users – inputs, outputs, events and effects.
+### Programming for Users: inputs, outputs, events and effects.
 
 Welcome back everyone!
 

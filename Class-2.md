@@ -1,5 +1,5 @@
-# Session Ô2Õ
-## Introduction to JavaScript Ð numbers, strings, operators and expressions.
+# Session 2
+## Introduction to JavaScript: numbers, strings, operators and expressions.
 
 
 ### Introduction:

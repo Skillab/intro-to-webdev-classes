@@ -1,4 +1,4 @@
-# Session ‘5’
+# Session 5
 ## Facilitator’s Guide
 ### Programming for APIs – calls and effect, the web is a program.
 

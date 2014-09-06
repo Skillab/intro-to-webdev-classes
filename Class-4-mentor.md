@@ -1,4 +1,4 @@
-# Session Ô4Õ
+# Session 4
 ## MentorÕs Guide
 ### Programming for Users Ğinputs, outputs, events and effects.
 

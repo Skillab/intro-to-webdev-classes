@@ -1,4 +1,4 @@
-# Session Ô5Õ
+# Session 5
 ## Student Guide
 ### Programming for APIs Ð calls and effect, the web is a program.
 

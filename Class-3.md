@@ -1,5 +1,5 @@
-# Session Ô3Õ
-## Advancing JavaScript Ð reusing & repeating, making statements and decisions.
+# Session 3
+## Advancing JavaScript: reusing & repeating, making statements and decisions.
 
 
 ### Introduction:

@@ -1,4 +1,4 @@
-# Session Ô4Õ
+# Session 4
 ## Student Guide
 ### Programming for Users Ðinputs, outputs, events and effects.
 
